@@ -1,0 +1,7 @@
+.titulo {
+  font-family: Inter, cursive;
+  font-size: 36px;
+  font-weight: 500;
+  color: var(--preto);
+  margin-top: 6px;
+}

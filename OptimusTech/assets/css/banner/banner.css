@@ -1,0 +1,11 @@
+:root {
+  --branco-principal: #ffffff;
+  --cinza-principal: #667085;
+  --vermelho-principal: #8e2424;
+}
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 4rem;
+}

@@ -1,0 +1,10 @@
+.vagas__VagasAberta {
+  font-family: Inter, cursive;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vermelho-principal);
+  border-radius: 1px solid;
+  background-color:var(--beige);
+  border-radius: 4px;
+  
+}

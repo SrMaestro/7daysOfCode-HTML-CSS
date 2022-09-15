@@ -1,0 +1,14 @@
+:root {
+  --cinza: #eaecf0;
+  --cinza-escuro: #667085;
+  --preto: #101828;
+}
+
+.empregos {
+  display: flex;
+  flex-direction: column;
+  margin-top: 6rem;
+  justify-content: center;
+  margin-right: 20.876rem;
+  margin-left: 20.876rem;
+}

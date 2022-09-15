@@ -1,0 +1,6 @@
+.descricao {
+  font-family: Inter, cursive;
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--cinza-principal);
+}

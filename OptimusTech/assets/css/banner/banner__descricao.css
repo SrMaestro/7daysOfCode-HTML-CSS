@@ -1,0 +1,10 @@
+.banner__descricao {
+  font-family: Inter, cursive;
+  font-weight: 400;
+  font-size: 20px;
+  color: var(--cinza-principal);
+  margin-left: 19rem;
+  margin-right: 19rem;
+  margin-top: 12px;
+  width: 800px;
+}

@@ -1,0 +1,6 @@
+.empregos__lista {
+  border: 1px solid var(--cinza);
+  border-radius: 4px;
+  width: 40rem;
+  height: 30%;
+}

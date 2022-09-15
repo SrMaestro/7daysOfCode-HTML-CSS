@@ -1,0 +1,15 @@
+:root {
+  --branco-principal: #ffffff;
+  --cinza-principal: #667085;
+  --vermelho-principal: #8e2424;
+}
+.cabecalho {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  font-size: 16px;
+  font-family: inter, cursive;
+  margin-right: 2rem;
+  margin-left: 2rem;
+}

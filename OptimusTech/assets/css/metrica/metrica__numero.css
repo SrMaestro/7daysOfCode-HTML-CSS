@@ -1,0 +1,7 @@
+.metrica__numero {
+  color: var(--vermelho-principal);
+  font-family: Inter, cursive;
+  font-size: 60px;
+  font-weight: 600vh;
+  margin: 1px;
+}

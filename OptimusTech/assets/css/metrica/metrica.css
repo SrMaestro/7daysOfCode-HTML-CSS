@@ -1,0 +1,14 @@
+:root {
+  --vermelho-principal: #8e2424;
+  --preto-principal: #101828;
+  --cinza-principal: #667085;
+}
+
+.metrica {
+  display: flex;
+  margin-top: 4rem;
+  margin-left: 2vh;
+  margin-right: 2vh;
+  align-items: center;
+  text-align: left;
+}

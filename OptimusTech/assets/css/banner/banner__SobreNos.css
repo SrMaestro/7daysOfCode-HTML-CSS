@@ -1,0 +1,7 @@
+.banner__SobreNos {
+  font-family: Inter, cursive;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--vermelho-principal);
+  margin-top: 1rem;
+}

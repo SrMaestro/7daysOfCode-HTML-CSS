@@ -1,0 +1,7 @@
+.vagas__titulo {
+  font-family: Inter, cursive;
+  font-size: 36px;
+  font-weight: 600;
+  color: var(--preto-principal);
+  margin: 4px;
+}

@@ -1,0 +1,16 @@
+:root {
+  --background-colorr: #f9fafb;
+  --preto-principal: #101828;
+  --cinza-principal: #667085;
+  --cinza-claro: #98a2b3;
+  --branco: #ffffff;
+  --vermelho-ala: #8e2424;
+}
+.oportunidade {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: var(--background-colorr);
+  padding: 4rem;
+  margin-top: 6rem;
+}

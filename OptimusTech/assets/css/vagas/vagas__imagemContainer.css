@@ -1,0 +1,7 @@
+.vagas__imagemContainer{
+  display: flex;
+  justify-content: center;
+  margin-right:4rem ;
+  margin-left:4rem ;
+  margin-top: 2rem;
+}

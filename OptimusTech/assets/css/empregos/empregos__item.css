@@ -1,0 +1,5 @@
+.empregos__item {
+  margin: 1.5rem;
+  list-style: none;
+  color: var(--cinza-escuro);
+}
