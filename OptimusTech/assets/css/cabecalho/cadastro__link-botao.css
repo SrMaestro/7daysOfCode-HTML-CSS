@@ -1,2 +1,7 @@
-.cadastro__link-botao {
+.cade {
+    border: 2px solid darkred;
+    padding: 14px;
+    border-radius: 4px;
+    background: darkred;
+    color: white;
 }
